@@ -12,6 +12,7 @@ namespace TipTracker_web.Controllers
     {
         public IActionResult Index()
         {
+            ViewData["Message"] = "Track your tips!";
             return View();
         }
 
