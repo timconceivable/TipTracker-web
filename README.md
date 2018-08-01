@@ -29,12 +29,6 @@ A comprehensive application to help delivery drivers track earned tips.  This we
 * C#
 * .NET / Entity Framework
 
-### Mobile Version Technologies
-* React Native ?
-* Flutter ?
-* Firebase ?
-* Javascript ?
-
 
 
 ### Project Board
